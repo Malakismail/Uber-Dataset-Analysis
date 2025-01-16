@@ -3,7 +3,8 @@
 ![M4hbiWhoo8n3bQQ2hKg5s3](https://github.com/user-attachments/assets/1b3fd084-00f8-4782-9f45-1977d5ca5cc2)
 
 
-https://github.com/user-attachments/assets/be68bc27-1513-4a15-a805-918e08a1a65b
+
+https://github.com/user-attachments/assets/57bdcc1c-39cf-44eb-8452-b0749b610549
 
 
 This project explores Uber trip data using Excel to uncover patterns, trends, and actionable insights. By leveraging Excel's powerful data analysis tools, we visualize ride trends, identify peak demand times, and map popular pickup and drop-off points.
